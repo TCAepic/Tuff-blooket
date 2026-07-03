@@ -283,7 +283,7 @@
                 display: "flex",
                 flexDirection: "column"
             },
-            innerHTML: '<span style="text-shadow: 1px 1px rgb(0 0 0 / 40%); font-size: 0.8em;">Zobro´s Cheats<sup>v2.2</sup></span>'
+            innerHTML: '<span style="text-shadow: 1px 1px rgb(0 0 0 / 40%); font-size: 0.8em;">Row\'s UI<sup>v2.2</sup></span>'
         }, l("a", {
             className: "bigButton",
             style: {
